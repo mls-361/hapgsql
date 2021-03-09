@@ -44,7 +44,7 @@ func (n *Node) Client() *pgsql.Client {
 	return n.client
 }
 
-func (n *Node) check(ctx context.Context, logger *logger.Logger) error {
+func (n *Node) check(ctx context.Context, logger logger.Logger) error {
 	t0 := time.Now()
 	err := n.client.QueryRow(ctx, "SELECT NOT pg_is_in_recovery()").Scan(&n.primary)
 	n.latency = time.Since(t0)

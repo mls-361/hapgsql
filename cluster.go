@@ -26,7 +26,7 @@ type (
 
 	// Cluster AFAIRE.
 	Cluster struct {
-		logger         *logger.Logger
+		logger         logger.Logger
 		updateInterval time.Duration
 		updateTimeout  time.Duration
 		nodes          []*Node

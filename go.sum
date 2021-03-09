@@ -86,10 +86,10 @@ github.com/mls-361/failure v0.0.0-20210214150656-bf33513ce561 h1:KMNRnoFBAQT3GAC
 github.com/mls-361/failure v0.0.0-20210214150656-bf33513ce561/go.mod h1:BWQr6RZOwoWz8xbSaQ/UDhncmL+diACBTHa1CEYLfSA=
 github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2 h1:Zt6lQ5jFV60/7KuP2zqgI1kCOhXsoUmwfANYR/5vtTM=
 github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2/go.mod h1:DKp8pWoA93y8WBQiSR0KDpNsE2rAioxfQNL+rLcKslU=
-github.com/mls-361/logger v0.0.0-20210214164347-fd97529e9bfc h1:wYRXNC2gB4t+WSOBM9Bn5IaiKOh1tPG5wxzjR08t64o=
-github.com/mls-361/logger v0.0.0-20210214164347-fd97529e9bfc/go.mod h1:O6F5h4lQmMgCunbbXYNxYoQXdjc7lPQKKN0NlB8NToo=
-github.com/mls-361/pgsql v0.0.0-20210226205001-362adf8312cb h1:8UsG/JyCWBfP/MGZQ7ZBajU1FhHD46s+rNSHfJ2oKns=
-github.com/mls-361/pgsql v0.0.0-20210226205001-362adf8312cb/go.mod h1:bS0Jr0wSQHgc73SCm2jKDozkm6rQs05jzFjbRrqKx5o=
+github.com/mls-361/logger v0.0.0-20210309090927-4beb5f07ee1e h1:5JD3dVBYBr+I5T8hdO5s+h1h02TE3onnir933mu6Ch4=
+github.com/mls-361/logger v0.0.0-20210309090927-4beb5f07ee1e/go.mod h1:O6F5h4lQmMgCunbbXYNxYoQXdjc7lPQKKN0NlB8NToo=
+github.com/mls-361/pgsql v0.0.0-20210309091407-c2c11c23a737 h1:H2nAh5DMTyyS3CluX6nakGNI+E5yppbEPSmGXzEIbgg=
+github.com/mls-361/pgsql v0.0.0-20210309091407-c2c11c23a737/go.mod h1:STWAUQuTQDXCSsx1pLgwCE5yVNV+t7SlYtFu8sgeXvw=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=

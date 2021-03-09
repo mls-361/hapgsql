@@ -16,7 +16,7 @@ import (
 type ClusterOption func(*Cluster)
 
 // WithLogger AFAIRE.
-func WithLogger(l *logger.Logger) ClusterOption {
+func WithLogger(l logger.Logger) ClusterOption {
 	return func(c *Cluster) {
 		c.logger = l
 	}
