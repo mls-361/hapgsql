@@ -88,8 +88,8 @@ github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2 h1:Zt6lQ5jFV60/7KuP
 github.com/mls-361/logfmt v0.0.0-20210214150102-dc79140262f2/go.mod h1:DKp8pWoA93y8WBQiSR0KDpNsE2rAioxfQNL+rLcKslU=
 github.com/mls-361/logger v0.0.0-20210309094146-fcd3b273b1f1 h1:eg5+J2tYf8YbZ1WttL5ctGsf0xR/dXULqW0h/erpQ/g=
 github.com/mls-361/logger v0.0.0-20210309094146-fcd3b273b1f1/go.mod h1:O6F5h4lQmMgCunbbXYNxYoQXdjc7lPQKKN0NlB8NToo=
-github.com/mls-361/pgsql v0.0.0-20210309094232-ac4f6ce7d4fe h1:DXJdb2/bW0vaKxTwEppJts70U35cddTyIvRwBonBkWw=
-github.com/mls-361/pgsql v0.0.0-20210309094232-ac4f6ce7d4fe/go.mod h1:oumPlQrKlIIXcPxCG+8an2Rb/X7ptF9jhE2bQcvtv+E=
+github.com/mls-361/pgsql v0.0.0-20210309125054-3a7594431e39 h1:ZQXioYCAsEb+8zfVDrL3mj1q1B7YkplxIv9MVayKxEM=
+github.com/mls-361/pgsql v0.0.0-20210309125054-3a7594431e39/go.mod h1:oumPlQrKlIIXcPxCG+8an2Rb/X7ptF9jhE2bQcvtv+E=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
