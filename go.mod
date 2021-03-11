@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/mls-361/logger v0.0.0-20210309094146-fcd3b273b1f1
-	github.com/mls-361/pgsql v0.0.0-20210309132431-d855ac323fc4
+	github.com/mls-361/pgsql v0.0.0-20210311150859-94fa9ac36717
 )
