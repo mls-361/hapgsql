@@ -55,6 +55,7 @@ func (n *Node) check(ctx context.Context, logger logger.Logger) error {
 				logger.Error( //::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 					"Problem when checking this node",
 					"node", n.host,
+					"database", n.client.Database(),
 					"reason", err.Error(),
 				)
 			}
@@ -71,6 +72,7 @@ func (n *Node) check(ctx context.Context, logger logger.Logger) error {
 		logger.Trace( //::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 			"CheckNode",
 			"node", n.host,
+			"database", n.client.Database(),
 			"primary", n.primary,
 			"latency", n.latency,
 		)
