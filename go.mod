@@ -4,6 +4,6 @@ go 1.15
 
 require (
 	github.com/mls-361/logger v0.0.0-20210309094146-fcd3b273b1f1
-	github.com/mls-361/pgsql v0.0.0-20210315172301-cb4166448f79
+	github.com/mls-361/pgsql v0.0.0-20210316133812-0bf08ea62536
 	golang.org/x/crypto v0.0.0-20210314154223-e6e6c4f2bb5b // indirect
 )
